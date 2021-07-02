@@ -1,6 +1,7 @@
 ### Hi there 👋
+<h1>I'm Mohit Singh !</h1>
 
-**MOHIT335448/MOHIT335448** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am pursuing a career in Computer Engineering. I have profound knowledge in Image Processing, Machine Learning, python and now practicing Deep Learning and NLP.
 
 Here are some ideas to get you started:
 
